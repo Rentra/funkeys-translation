@@ -1,0 +1,77 @@
+Introduction
+Having felt quite overwhelmed in this community with so many niche options available with widespread documentation and secret knowledge spread across Reddit and multiple forums I hope to dispel some myths and make some sense about when to use certain lubricants, why I recommend them, and a few options of where to purchase them.
+
+The Basics
+Let’s start with why we lube switches. Often a switch will come prelubed from the factory but only with a small amount that is sloppily applied to the stem legs. This may be all fine and well for the uninitiated but if we’re going to take the time to build a custom board we may as well do it right.
+
+Lubricating switches can help dampen sounds both from the housing and stem itself but also from the spring. It can smooth out imperfections in the material and help things glide along with less friction and hitches. It can do this without removing tactility if done properly and with the right lube (more on this later) and it can also take a decent linear switch into buttery smooth heaven.
+
+There are many types of lubricants out there but we can usually break them down into two types. Greases and Oils. Both types can then be found in different grades which determines the viscosity of the lubricant. The higher the viscosity the less fluid it will be. Or to put it another way, the thicker it will feel.
+
+Oil vs Grease
+So why use oil or grease? Why not just one or the other? The answer is really personal preference for the most part.
+
+One thing I will say that might sway you in one direction over the other is that oil is a bit more versatile than grease when it comes to application methods. Oil can be brushed onto the housing and stem but can also be used more easily when bag lubing springs (I will go over this later). Grease, on the other hand, is easy to apply by brush to the housing and stem but may be more difficult and time consuming to apply to springs as you then have to brush a bit of grease onto each spring individually.
+
+Honestly, if it’s easier to get one over the other then don’t fret too much about it.
+
+What’s with all the Numbers?
+You might hear numbers thrown around be wondering, what the heck is 3204 or 205g0? or, what’s the difference between 104 and 204?
+
+Products from the Krytox family are often graded for their viscosity by number with the lower the number the less viscous it is. So for example 203 is less viscous than 204 which is in turn less viscous than 205 and so on.
+
+The 10x range are oils and then 20x range are all greases. The most common greases and oils used in our community seem to be 104, 106, 203, 204, and 205. You will often see, especially 205, with a g0 on the end. This stands for Grade 0 which changes the consistency of the grease. Grade 0 being quite a smooth consistency and the higher grades becoming more like a peanut butter consistency. Don’t assume, but most vendors sell 205g0. If they don’t specify, then ask, but you probably want Grade 0.
+
+Okay, so which one should I use?
+It depends.
+
+The best analogy I can think of is comparing finishing wood with an oil coat or painting over it. The oil finish will fill minor imperfections in the wood and perhaps give it a glossy or matte finish but in general it’s about highlighting the underlying qualities of the wood. This is opposite to paint whose purpose is to entirely cover the imperfections in the wood, masking its original qualities but perhaps making the wood useable whereas perhaps it was not before.
+
+A lower viscosity lubricant is kind of like finishing the wood with oil whereas the higher viscosity is like painting over the wood.
+
+As a general rule of thumb, lower viscosity lubricants are used on tactile switches, whereas higher viscosity lubricants are used on linear switches. This is often desirable because you don’t want to cover up the tactility of a tactile switch. You want to keep that exposed while smoothing away some imperfections. On the other hand, a linear switch may not have as much character as a tactile switch and perhaps you might feel the imperfections a bit more as well, and so often you want a very smooth experience while not worrying too much about masking the original switch qualities.
+
+Common options for tactile switch housings and stems are 3203 and 203 or their oil equivalents and for linear switches you might use 205 or 106. In my opinion 3204, 204, and 104 are the Jack of all trades in that they can be used pretty well for both linear and tactile switches but a more closely matched number to your purposes may serve you a bit better.
+
+You’ll notice that I specified just the switch housing and stems. The spring is a whole other matter. Personally I have found that a heavier lubricant is preferable to dampen any spring noises but just about anything can be used.
+
+When in doubt, or if the budget is tight, or if it’s just more readily available, the xx4 viscosity is a good overall choice. Also keep in mind, how much you apply, and where you apply can greatly affect the final feeling too. Which brings us to our next point…
+
+How do I use these dang lubes?
+Bag lubing? Painting? What the hell?
+
+Brush Lubing
+There are many ways to get the lube in the switch but the tried and true method of brushing it on is the most common. Using a fine brush (my preference is a 00 brush) from a craft or art supply store, you literally brush the lubricant onto the switch components. Brushing gives you the most control over application but also takes the longest. With brushing you can control how much lube is on the brush and where it gets applied to your housing and stem. There are a lot of guides on how to do this so I won’t rehash it here other than to say that the one area where you can make a big difference in feel is whether you do and how much you lube the stem legs. Applying a thick coat of lube on the legs is really going to dampen the tactility of a tactile switch even if you’re using a low viscosity lubricant so be mindful how you are doing that part and experiment until you get the feeling you want.
+
+Bag Lubing
+Bag lubing is another way of applying the lubricant but one that I only use for the springs. The idea is that you throw whatever you want to lubricate into a bag, make sure it has some air to allow free movement of the parts, and then shake it until the lubricant is evenly dispersed.
+
+While you can in theory use the bag lube method for the stem as well as the spring, it ends up being a poor solution for the stem as it is less evenly distributed on the stem, is wasteful on parts that don’t need lube and creates a mess of the part you actually mount the keycap on.
+
+However, for springs, I haven’t found an easier or quicker method. While you don’t necessarily need to coat the whole spring to get rid of any pinging, it doesn’t hurt and isn’t overly wasteful either. I’ve found a ratio of ~0.1-0.15mL to 100 springs to be about right to remove any pinging (I use 106 for this). What you want to do is find a zip lock bag just big enough for all the springs and a bit of air so they can move about, put the springs and the oil in the bag, blow some air in as you seal it, and shake. This will disperse the oil across the springs and give you a pretty even coating. I use tweezers to grab the springs out of the bag and often rub the spring against the inside of the bag wall to pickup a bit more lube while I put it into the switch housing.
+
+Other methods?
+If you have any other suggestions for how to lube switches I’d love to hear them. The brushing process is pretty time consuming so if there’s another way to do it without sacrificing accuracy I’m all ears!
+
+Alright, I’m sold, but where do I buy these lubricants?
+Most of these lubricants are pretty specialized. They were not designed for the keyboard community but we’ve adapted them to our needs. This means they are generally harder to find than your run of the mill Superlube or other household lubricants. This is slowly changing however, with more shops starting to sell moderately portioned lubricants in varying viscosities and even some specialized blends created within our community that are performing quite well!
+
+The reason, I think, that we’ve adopted some specialized lubricants is due to how precise and small scale these switches are. A small change can make a big impact on the switch properties so we need lubricants that are precise and well measured. The Krytox brand, having a wide range of easily discernable viscosities has become quite popular and therefore used by quite a few in our community. It has so far stood the test of time compared to other brands and so is often recommended.
+
+Krytox options can be purchased in bulk on various online stores, but most of us don’t need that much! 2mL of lubricant can go a long ways and that is generally how much I buy at any given time. as a rough guide, 2mL can cover ~150-200 switches. Stores like Switchmod.net 1.5k, Store Uni 716, MyKeyboard 928, Sprit 517, and many others, sell various lubricants in varying viscosities. If you know of any other stores that are selling lubricants specifically at the keyboard market let me know and I’ll add them to a running list (See bottom of article)!
+
+A newer but well tested product is the Tribosys range originally from u/krelbit at Switchmod.net 290. Currently there is Tribosys 3203 and 3204 which are kind of equivalents of Krytox 203 and 204 respectively. They are greases and can be used in place of their Krytox counterparts. This grease has been well received and is generally more available and at cheaper prices than Krytox. Tribosys products can be bought directly from different vendors in various countries so pick your favourite one and profit (I’m not affiliated in any way, just like the product)!
+
+In Summary
+Switch lubricating can sound scary but in reality is quite simple and makes a huge difference in both feel and sound!
+
+I hope that this guide has helped to make some sense of the various choices available to our community today but it’s far from perfect or complete. If you have any feedback, criticisms, or ideas please comment below or PM me!
+
+A few quick fire thoughts and notes
+If I had to pick just one lubricant to bring to a fictional keyboard island it would be Tribosys 3204. Its middle of the road viscosity works pretty well for both tactile and linear switches as well as springs and can be used in lesser or greater amounts to highlight or dampen various features of a switch.
+
+If your grease is whitish in colour a good rule of thumb is that you’ve used too much if you can tell that it is white when you apply it to the switch. In thinner applications it should be fairly clear.
+
+Don’t overthink it. I believe many of us get caught up in the right or wrongs inherent of this community but a lot of it is really subtle differences that quite frankly you might not notice when typing daily. I’m all for paying attention to the details (hence my own journey into the lube world) but don’t feel obligated to use this or that just because so and so says so. Honestly, it’s pretty hard to screw this up so long as you’re using one of the above mentioned lubricants.
+
+It’s better to start with a little less lube, try it out, and then add more as necessary. If you overlube from the start you will waste lube when you have to wipe it off and it will take more time. As you get the hang of it you’ll become more consistent in your application.
